@@ -1,5 +1,4 @@
-"# gow-olympic-edition-box-up" 
-
 Box-up
-Andranik Arakelov
+
+Andranik Arakelov and 
 Vincent Maisonnet
